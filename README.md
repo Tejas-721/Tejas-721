@@ -171,9 +171,9 @@ Inventory and management platform designed to simplify tracking and organization
 
 💼 LinkedIn: www.linkedin.com/in/tejas-gupta-ab092b299
 
-💻 GitHub: github.com/Tejas-721
+💻 GitHub: www.github.com/Tejas-721
 
-🧠 LeetCode: leetcode.com/u/tejas-721/
+🧠 LeetCode: www.leetcode.com/u/tejas-721/
 
 ---
 
